@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![etnt's github stats](https://shion.dev) | ![etnt's top langs](https://shion.dev) |
+| ![etnt's github stats](https://github-readme-stats.vercel.app/api?username=etnt&show_icons=true&theme=radical) | ![etnt's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etnt&layout=compact&theme=radical) |
+
 
