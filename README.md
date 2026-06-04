@@ -13,10 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Uppdaterad med en fungerande community-mirror -->
+<!-- Updated with working alternatives -->
 
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![etnt's github stats](https://github-readme-stats.vercel.app/api?username=etnt&show_icons=true&theme=radical) | ![etnt's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etnt&layout=compact&theme=radical) |
+### 📊 GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=etnt&theme=radical)](https://git.io/streak-stats)
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=etnt&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 Activity Graph
+
+[![etnt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=etnt&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
