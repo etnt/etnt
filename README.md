@@ -17,13 +17,10 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=etnt&theme=radical)](https://git.io/streak-stats)
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=etnt&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Views](https://komarev.com/ghpvc/?username=etnt&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/etnt?style=social)
+![Stars](https://img.shields.io/github/stars/etnt?style=social)
 
 ### 📈 Activity Graph
 
 [![etnt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=etnt&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
