@@ -68,7 +68,7 @@ https://whistletab.kruskakli.se/
 
 [SR-Podcast](https://github.com/etnt/sr-podcasts) is a small Android app with
 a personal short list of Sveriges Radio podcasts. You open the app and tap
-a show. The latest episodes appear without a search. i
+a show. The latest episodes appear without a search.
 
 The app appears in Android Auto on the car screen. The car shows its own media
 screens, not the app's phone UI. You browse your saved shows, pick an episode,
