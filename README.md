@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=etnt&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/etnt?style=social)
 ![Stars](https://img.shields.io/github/stars/etnt?style=social)
 
