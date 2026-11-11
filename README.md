@@ -45,6 +45,13 @@ and per-team schedules.
 It requires a Premium Key, purchased from `thesportsdb.com`, and adds Live
 scores tab, Player stats leaderboards with top scorers, assists & cards, etc.
 
+### Stryktipset
+[Stryktipset](https://github.com/etnt/stryktipset) Stryktipset is a football
+pool from Svenska Spel. This tool makes a smaller Stryktipset bet from a large
+system. A system is a set of rows that covers many possible results. A full
+system can cost too much. This tool selects fewer rows and still gives you a
+guarantee for the rows it keeps.
+
 ### guten-speak
 
 [Guten-Speak](https://github.com/etnt/guten-speak) is an Android app that turns
